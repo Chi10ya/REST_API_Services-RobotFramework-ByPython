@@ -1,0 +1,29 @@
+{
+  "firstName": "Chaitanya",
+  "lastName": "Mohammad",
+  "Age": "40",
+  "Phone": "052-869-1895",
+  "City":["Cork", "Dublin", "Limerick"],
+
+  "Address":
+  {
+    "StreetName": "Fermoy",
+    "HouseNumber": "212224",
+    "City": "Cork",
+    "postalCode": "212224"
+  },
+        "ContactNumber":
+                [
+                       {
+                         "type": "Home",
+                         "MobileNumber": "0556174499",
+                         "LandNumber": "0528691895"
+                       },
+                       {
+                         "type": "Office",
+                         "MobileNumber": "0528691895",
+                         "LandNumber": "0528691895"
+                       }
+                ]
+}
+
